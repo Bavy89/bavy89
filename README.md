@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! My name is **Bave**, and I'm a passionate **Frontend Developer student** currently studying at **Noroff School of Technology and Digital Media**. I'll be completing my studies in early **2025**, and I'm excited to continue building creative and functional web experiences.
 
 ### 🌟 About Me
-- 🔭 **Currently working on:** Building projects that showcase my skills in HTML, CSS, JavaScript, and React.
+- 🔭 **Currently working on:** Freelance projects for clients through my website [Skapweb.no](https://skapweb.no) and building my portfolio with creative and functional web applications.
 - 🌱 **Currently learning:** Advanced frontend frameworks and tools, focusing on improving my UX/UI design capabilities.
 - 🤔 **Seeking help with:** Best practices for optimizing frontend performance and accessibility.
 - 📫 **How to reach me:** Feel free to [connect with me on LinkedIn](#) or [email me](mailto:bave.ado@gmail.com).
