@@ -5,10 +5,8 @@ Welcome to my GitHub profile! My name is **Bave**, and I'm a passionate **Fronte
 ### 🌟 About Me
 - 🔭 **Currently working on:** Building projects that showcase my skills in HTML, CSS, JavaScript, and React.
 - 🌱 **Currently learning:** Advanced frontend frameworks and tools, focusing on improving my UX/UI design capabilities.
-- 👯 **Looking to collaborate on:** Web development projects, open-source initiatives, and anything that helps the community grow.
 - 🤔 **Seeking help with:** Best practices for optimizing frontend performance and accessibility.
-- 📫 **How to reach me:** Feel free to [connect with me on LinkedIn](#) or [email me](mailto:your.email@example.com).
-- 😄 **Pronouns:** He/Him
+- 📫 **How to reach me:** Feel free to [connect with me on LinkedIn](#) or [email me](mailto:bave.ado@gmail.com).
 - ⚡ **Fun fact:** I'm a big fan of problem-solving and love transforming complex ideas into simple, user-friendly solutions.
 
 ### 🚀 Check Out My Projects
@@ -21,4 +19,4 @@ If you'd like to contribute:
 
 ---
 
-Thanks for stopping by! Let’s build something amazing together. 😊
+Thanks for stopping by! 😊
